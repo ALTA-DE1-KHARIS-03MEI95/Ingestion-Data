@@ -1,3 +1,0 @@
-Instruksi!
-- Upload script python dengan extension .py
-- Screenshot output dari script python yang sudah kamu buat

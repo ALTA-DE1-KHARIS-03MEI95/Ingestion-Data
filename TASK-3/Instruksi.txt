@@ -1,0 +1,5 @@
+Instruksi!
+- Screenshot jika sudah berhasil connect ke source local file
+- Screenshot jika sudah berhasil connect ke destination postgres db
+- Screenshot Jika sudah berhasil berhasil membuat connection from local file to postgres
+- Screenshot untuk tampilkan data yg sudah berhasil di ingest ke postgres
